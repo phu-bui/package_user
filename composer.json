@@ -1,0 +1,16 @@
+{
+    "name": "phu/user",
+    "authors": [
+        {
+            "name": "phubui",
+            "email": "phubui@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Modules\\User\\": "src/"
+        }
+    },
+    "require": {}
+}
